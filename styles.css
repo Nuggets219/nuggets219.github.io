@@ -1,0 +1,16 @@
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+/*tables*/
+
+/*canvasses. Canvi?*/
+canvas {
+  border: 1px solid #FFFFFF; /* size type color*/
+}
+
+#mapview {
+  width:1820px;
+  height:720px;  
+}
+

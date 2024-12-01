@@ -1,0 +1,12 @@
+I have no name for this game, nor really any sort of plan.
+I just want to try to make a general purpose thing.
+Maybe not even that, and just a weird little side project
+using JS canvas.
+
+I intend to use a table filled with Canvas elements to 
+display lots of information at once.
+
+Anyone can use this, no credit required.
+Except for any assets I make, which will be pre/suff-
+ixed by "NUG".
+It's probably super simple anyways.
